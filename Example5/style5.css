@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+
+.big-title {
+    font-size: 10rem;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.margin-100 {
+    margin: 100px;
+}
