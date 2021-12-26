@@ -6,5 +6,9 @@ $(document).ready(function() {
     $("input").keypress(function(event) {
         console.log(event.key);
     })
+
+    $("h1").on("mouseover", function(event){
+        $("h1").css("color", "green");
+    })
 });
 
